@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/markusweigelt/gt-repo-test/releases/tag/v0.0.1a">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 3_v0.0.1a</a>
+         <a href="https://github.com/markusweigelt/gt-repo-test/releases/tag/v0.0.4">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 5_v0.0.4</a>
       </li>
       <li>
          <a href="https://github.com/markusweigelt/gt-repo-test/releases">Version archive</a>
