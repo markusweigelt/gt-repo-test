@@ -309,6 +309,7 @@ jobs:
                 artifacts: 'ocrdzip_out/*.zip'
                 artifactContentType: application/zip
                 name: Release ${{ github.run_number }}_${{ env.TAG_NAME }}
+                omitNameDuringUpdate: true
                 body: |
                   <dl>
                   <dt>Version:</dt> 
